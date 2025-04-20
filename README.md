@@ -15,3 +15,6 @@ This is a beginner-level Python script that checks whether a given number is a p
 ## How to run
 ```bash
 python prime_checker.py
+
+Enter a number: 7
+7 is a prime number.
