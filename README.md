@@ -2,6 +2,11 @@
 
 This is a beginner-level Python script that checks whether a given number is a prime number.
 
+## 💡 Features
+- Takes an input number from the user
+- Loops through possible divisors
+- Prints whether the number is prime or not
+
 ## How it works
 - Takes a number as input
 - Loops through potential divisors
